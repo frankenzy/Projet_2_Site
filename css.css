@@ -1,0 +1,135 @@
+body
+{
+	margin: 15px;
+	background: fixed;
+	background-color: #AFAFAF;
+}
+header
+{
+	background: url(img/header.jpeg) repeat-x bottom;
+	margin: 0px;
+	opacity: 1.5;
+	background-attachment: fixed;
+	background-position: top;
+}
+#header_info {
+	color: #7BA05B; 
+	margin-left: 35%;
+	font-size: 1.8em;
+	}
+#auteur
+{
+	width: 40%; height: 50%;
+	margin-left: 30%;
+	border-radius: 35px 35px 35px 35px;
+}
+nav
+{
+	background-color: #706b64;
+	text-decoration: none;
+}
+#menu a
+{
+	color: black;
+	margin: auto;
+	margin-bottom: 5px;
+}
+h1
+{
+	text-align: center;
+	font-family: 'LearninCurveProRegular',Arial,serif;
+	color: #811453;
+	font-size: 38px;
+	text-transform: uppercase;
+	text-shadow: 8px 8px 8px #83A697;
+}
+#menu_title
+{
+	font-family: sans-serif;
+	background-color: blue;
+	border: 1px solid black;
+	text-transform: uppercase;
+	text-align: center;
+	border-radius: 25px 25px 25px 25px;
+}
+.menu_title
+{
+	border: 1px solid black;
+	margin-bottom: 5px;
+	border-radius: 5px 5px 5px 3px;
+	text-decoration: none;
+
+}
+#menu
+{
+	float: left;
+	width: 15.5%;
+	border: 2px solid black;
+	margin-bottom:10px;
+	padding-bottom: 5px;
+	border-radius: 0px 0px 20px 20px;
+	box-shadow:0px 10px 15px black;
+}
+nav a
+{
+	text-transform: none;
+}
+section
+{
+	float: right;
+	width: 83%;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	box-shadow: 10px 10px 35px black;
+}
+article
+{
+	width: 80%;
+	float:left;
+	padding-left: 15px;
+}
+.nav
+{
+	margin-left:35%; 
+}
+a{ 
+	margin:15px;
+ text-decoration: none;
+ list-style-type: none;
+  color: #181818; 
+  font-size: 1em; 
+  color: white;
+}
+article, aside
+{
+display: inline-block;
+vertical-align: top;
+text-align: justify;
+}
+article
+{
+width: 55%;
+margin-right: 15px;
+}
+article p
+{
+font-size: 0.8em;
+}
+aside
+{
+position: relative;
+width: 30%;
+background-color: #706b64;
+box-shadow: 0px 1px 2px #1c1a19;
+border-radius: 5px;
+padding: 5px;
+color: white;
+font-size: 0.9em;
+margin-left: 10%;
+}
+#slide
+{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
